@@ -1,5 +1,4 @@
-# MacOS-Mojave
-A MacOS Mojave simulator made in Scratch 2.0
+# MacOS-Big-Sur
+A MacOS Big Sur simulator made in Scratch.
 
-Credits:
-- OfficialCQZ for the original.
+### WIP
