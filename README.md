@@ -1,4 +1,4 @@
-# MacOS-Big-Sur
-A MacOS Big Sur simulator made in Scratch.
+# macOS-Big-Sur
+A macOS Big Sur simulator made in Scratch.
 
 ### WIP
